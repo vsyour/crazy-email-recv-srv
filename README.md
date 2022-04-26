@@ -135,4 +135,3 @@ curl -XGET http://sayhiai.com:14000/to/skdfkdsjf@sayhiai.com
 
 我已经把代码放到github上了 :) :) :).   https://github.com/lycying/crazy-email-recv-srv ，对你有帮助的话别忘了关注微信公众号`小姐姐味道`，如果顺便打赏几毛钱，那是最妙不过了。要是你干了坏事的话，就先不要留名了～
 
-![](media/qrcode_for_gh_183eb256f8af_1280.jpg)
